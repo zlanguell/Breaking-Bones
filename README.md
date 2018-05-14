@@ -6,9 +6,10 @@ Breaking Bones is a 2d arcade style game created as a software engineering proje
 
 
 - deploy(no xna) does not have xna installer as part of setup if you already have it
+https://github.com/zlanguell/Breaking-Bones/raw/master/deploy%20(no%20xna)/deploy%20(no%20xna).zip
 
 - deploy(xna) includes xna 4.0 as installation process
-
+https://github.com/zlanguell/Breaking-Bones/raw/master/deploy%20(xna)/deploy%20(xna).zip
 
 
 If you have issues installing xna, please ensure Games for Windows is up-to-date on your system.
