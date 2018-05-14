@@ -1,0 +1,308 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<XnaContent xmlns:Pipeline="Microsoft.Xna.Framework.Content.Pipeline">
+  <Asset Type="Pipeline:BuildItemCollection">
+    <Item>
+      <Source>tw.png</Source>
+      <Name>tw</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\tw.xnb</Output>
+      <Time>2015-11-10T21:44:43.1126055-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\breakingBonesLogo.png</Source>
+      <Name>Menus\breakingBonesLogo</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\breakingBonesLogo.xnb</Output>
+      <Time>2015-11-11T19:48:56.9508611-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\leaderboardButton.png</Source>
+      <Name>Menus\leaderboardButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\leaderboardButton.xnb</Output>
+      <Time>2015-11-22T20:53:32.6030052-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\playButton.png</Source>
+      <Name>Menus\playButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\playButton.xnb</Output>
+      <Time>2015-11-22T20:42:41.797269-06:00</Time>
+    </Item>
+    <Item>
+      <Source>background.png</Source>
+      <Name>background</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\background.xnb</Output>
+      <Time>2015-11-12T14:04:37.7084267-06:00</Time>
+    </Item>
+    <Item>
+      <Source>lammergeier.png</Source>
+      <Name>lammergeier</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\lammergeier.xnb</Output>
+      <Time>2015-11-30T20:09:32.9022889-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\backButton.png</Source>
+      <Name>Menus\backButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\backButton.xnb</Output>
+      <Time>2015-11-12T00:37:57.6320402-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\aboutPage.png</Source>
+      <Name>Menus\aboutPage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\aboutPage.xnb</Output>
+      <Time>2015-11-25T01:37:27.8859538-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Bones.png</Source>
+      <Name>Bones</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Bones.xnb</Output>
+      <Time>2015-11-20T01:58:57.8994546-06:00</Time>
+    </Item>
+    <Item>
+      <Source>eagle.png</Source>
+      <Name>eagle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\eagle.xnb</Output>
+      <Time>2015-11-10T20:46:47.9438372-06:00</Time>
+    </Item>
+    <Item>
+      <Source>rocks.png</Source>
+      <Name>rocks</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\rocks.xnb</Output>
+      <Time>2015-11-20T01:58:57.9004547-06:00</Time>
+    </Item>
+    <Item>
+      <Source>turtle.png</Source>
+      <Name>turtle</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\turtle.xnb</Output>
+      <Time>2015-11-20T01:58:57.941457-06:00</Time>
+    </Item>
+    <Item>
+      <Source>TurtleDeath.png</Source>
+      <Name>TurtleDeath</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\TurtleDeath.xnb</Output>
+      <Time>2015-11-20T01:58:57.924456-06:00</Time>
+    </Item>
+    <Item>
+      <Source>tree.png</Source>
+      <Name>tree</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\tree.xnb</Output>
+      <Time>2015-11-20T01:58:58.0594638-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\aboutButton.png</Source>
+      <Name>Menus\aboutButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\aboutButton.xnb</Output>
+      <Time>2015-11-25T01:50:38.8871965-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\Tutorial.png</Source>
+      <Name>Menus\Tutorial</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\Tutorial.xnb</Output>
+      <Time>2015-11-25T01:46:19.6523691-06:00</Time>
+    </Item>
+    <Item>
+      <Source>lamBack2.wav</Source>
+      <Name>lamBack2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\lamBack2.xnb</Output>
+      <Time>2015-11-13T16:33:41.2557381-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\DyingTurtle.wav</Source>
+      <Name>SFX\DyingTurtle</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\SFX\DyingTurtle.xnb</Output>
+      <Time>2015-11-14T13:10:54.1878067-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\PlayerPickUpItem.wav</Source>
+      <Name>SFX\PlayerPickUpItem</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\SFX\PlayerPickUpItem.xnb</Output>
+      <Time>2015-11-14T13:10:54.1938071-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\PlayerPickUpItem2.wav</Source>
+      <Name>SFX\PlayerPickUpItem2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\SFX\PlayerPickUpItem2.xnb</Output>
+      <Time>2015-11-14T13:10:54.2028076-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\SelectBlip2.wav</Source>
+      <Name>SFX\SelectBlip2</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\SFX\SelectBlip2.xnb</Output>
+      <Time>2015-11-14T13:10:54.210808-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\TurtlePickUp.wav</Source>
+      <Name>SFX\TurtlePickUp</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\SFX\TurtlePickUp.xnb</Output>
+      <Time>2015-11-14T13:10:54.2138082-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\PlayerDiving.wav</Source>
+      <Name>SFX\PlayerDiving</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\SFX\PlayerDiving.xnb</Output>
+      <Time>2015-11-16T19:06:45.8861605-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SFX\GainPoints.wav</Source>
+      <Name>SFX\GainPoints</Name>
+      <Importer>WavImporter</Importer>
+      <Processor>SoundEffectProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\SFX\GainPoints.xnb</Output>
+      <Time>2015-11-16T19:48:26.3161769-06:00</Time>
+    </Item>
+    <Item>
+      <Source>SpriteFont1.spritefont</Source>
+      <Name>SpriteFont1</Name>
+      <Importer>FontDescriptionImporter</Importer>
+      <Processor>FontDescriptionProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\SpriteFont1.xnb</Output>
+      <Time>2015-11-14T12:13:39.4493509-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\LeaderboardPage.png</Source>
+      <Name>Menus\LeaderboardPage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\LeaderboardPage.xnb</Output>
+      <Time>2015-12-01T02:21:21.3607173-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\optionsPage.png</Source>
+      <Name>Menus\optionsPage</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\optionsPage.xnb</Output>
+      <Time>2015-11-25T01:22:00.6675169-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\controlButton.png</Source>
+      <Name>Menus\controlButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\controlButton.xnb</Output>
+      <Time>2015-11-24T23:27:02.6794238-06:00</Time>
+    </Item>
+    <Item>
+      <Source>Menus\optionsButton.png</Source>
+      <Name>Menus\optionsButton</Name>
+      <Importer>TextureImporter</Importer>
+      <Processor>TextureProcessor</Processor>
+      <Options>None</Options>
+      <Output>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\Menus\optionsButton.xnb</Output>
+      <Time>2015-11-24T23:28:15.1896983-06:00</Time>
+    </Item>
+    <BuildSuccessful>true</BuildSuccessful>
+    <Settings>
+      <ContentProjectGUID>{5CD0C767-BEBD-4326-B8B2-3D328D9AA913}</ContentProjectGUID>
+      <TargetPlatform>Windows</TargetPlatform>
+      <TargetProfile>Reach</TargetProfile>
+      <BuildConfiguration>Debug</BuildConfiguration>
+      <CompressContent>false</CompressContent>
+      <RootDirectory>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking BonesContent\</RootDirectory>
+      <LoggerRootDirectory>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\</LoggerRootDirectory>
+      <IntermediateDirectory>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\obj\x86\Debug\</IntermediateDirectory>
+      <OutputDirectory>C:\Users\Blake\Source\Workspaces\GroupProject4\Breaking Bones\Breaking Bones\Breaking Bones\bin\x86\Debug\Content\</OutputDirectory>
+    </Settings>
+    <Assemblies>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.XImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.VideoImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.TextureImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.FBXImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.EffectImporter.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Program Files (x86)\Microsoft XNA\XNA Game Studio\v4.0\References\Windows\x86\Microsoft.Xna.Framework.Content.Pipeline.AudioImporters.dll</Key>
+        <Value>2011-09-01T16:22:30-05:00</Value>
+      </Assembly>
+      <Assembly>
+        <Key>C:\Windows\Microsoft.Net\assembly\GAC_32\Microsoft.Xna.Framework.Content.Pipeline\v4.0_4.0.0.0__842cf8be1de50553\Microsoft.Xna.Framework.Content.Pipeline.dll</Key>
+        <Value>2015-10-27T21:02:50.2372902-05:00</Value>
+      </Assembly>
+    </Assemblies>
+  </Asset>
+</XnaContent>

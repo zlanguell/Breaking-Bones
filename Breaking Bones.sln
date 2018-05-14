@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking Bones", "Breaking Bones\Breaking Bones\Breaking Bones.csproj", "{FE07BD5A-C936-4EBA-BFDB-6696DB4A0511}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Breaking BonesContent", "Breaking Bones\Breaking BonesContent\Breaking BonesContent.contentproj", "{5CD0C767-BEBD-4326-B8B2-3D328D9AA913}"
+EndProject
+Global
+	GlobalSection(TeamFoundationVersionControl) = preSolution
+		SccNumberOfProjects = 3
+		SccEnterpriseProvider = {4CA58AB2-18FA-4F8D-95D4-32DDF27D184C}
+		SccTeamFoundationServer = http://ctasv20r2drw:8080/tfs/softwareengineeringgroup4
+		SccLocalPath0 = .
+		SccProjectUniqueName1 = Breaking\u0020Bones\\Breaking\u0020Bones\\Breaking\u0020Bones.csproj
+		SccProjectName1 = Breaking\u0020Bones/Breaking\u0020Bones
+		SccLocalPath1 = Breaking\u0020Bones\\Breaking\u0020Bones
+		SccProjectUniqueName2 = Breaking\u0020Bones\\Breaking\u0020BonesContent\\Breaking\u0020BonesContent.contentproj
+		SccProjectName2 = Breaking\u0020Bones/Breaking\u0020BonesContent
+		SccLocalPath2 = Breaking\u0020Bones\\Breaking\u0020BonesContent
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE07BD5A-C936-4EBA-BFDB-6696DB4A0511}.Debug|x86.ActiveCfg = Debug|x86
+		{FE07BD5A-C936-4EBA-BFDB-6696DB4A0511}.Debug|x86.Build.0 = Debug|x86
+		{FE07BD5A-C936-4EBA-BFDB-6696DB4A0511}.Release|x86.ActiveCfg = Release|x86
+		{FE07BD5A-C936-4EBA-BFDB-6696DB4A0511}.Release|x86.Build.0 = Release|x86
+		{5CD0C767-BEBD-4326-B8B2-3D328D9AA913}.Debug|x86.ActiveCfg = Debug|x86
+		{5CD0C767-BEBD-4326-B8B2-3D328D9AA913}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
