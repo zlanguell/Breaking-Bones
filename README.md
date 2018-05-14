@@ -1,6 +1,6 @@
 # Breaking Bones
 
-Breaking Bones is a 2d platformer created as a software engineering project in 2015 using C# and the Microsoft XNA Game Studio. The XNA framework is required to install the game.
+Breaking Bones is a 2d arcade style game created as a software engineering project in 2015 using C# and the Microsoft XNA Game Studio. The XNA framework is required to install the game.
 
 ############################## Installation #########################################
 
